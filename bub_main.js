@@ -11,8 +11,8 @@ console.log("%c      \ud83e\udd20 BUBBLE RANCHER STARTUP \ud83e\udd20      ", "b
 //super fill up gameplay - https://www.youtube.com/watch?v=FSSc7yNptvA
 
 //URL to the readme for the About/credits scene
-var urlToReadMe = document.URL + "README.html";
-//var urlToReadMe = document.URL + "README.md";
+//var urlToReadMe = document.URL + "README.html";
+var urlToReadMe = "https://github.com/EricLju/Bubble-Rancher#readme";
 
 var MIN_BUBBLE_SCALE = 0.05;
 //Max width of the game canvas in pixels
