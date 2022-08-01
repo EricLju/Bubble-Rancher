@@ -8,7 +8,7 @@ Avoid enemies while the bubble is expanding. Fill up 66% of the play area with
 bubbles before running out of Air or Tanks to pass the current level. Try to
 get the highest possible score.
 
-[Click Here To Play]()
+[Click Here To Play](https://ericlju.github.io/Bubble-Rancher/)
 
 # License
 Bubble Rancher CC0 1.0 Universal (CC0 1.0)  
